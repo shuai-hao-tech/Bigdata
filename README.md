@@ -15,3 +15,8 @@ java -cp /usr/lib/hbase-current/lib/*:Bigdata-1.0-SNAPSHOT.jar:slf4j-api-1.7.30.
 第三周作业:
 
 Bigdata/src/main/java/org/geekbang/time/week3/
+
+
+第五周作业:
+
+Bigdata/src/main/java/org/geekbang/time/week6/
